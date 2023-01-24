@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/user.png</file>
+        <file>resources/id.png</file>
+        <file>resources/xiaohui.png</file>
+        <file>resources/xiaohui-w.png</file>
+    </qresource>
+</RCC>
