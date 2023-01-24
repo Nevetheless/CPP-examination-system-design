@@ -2,6 +2,8 @@
 
 本项目为hust研究生面向对象课程考试，基于C++完成了简易的考试系统设计，包含交互式答题、自动判卷以及文件传输等基本功能.
 
+[演示视频传送门](https://www.bilibili.com/video/BV1y24y1r7kR/?vd_source=4defd9ec3f3ef427be8b3b49937777df)
+
 ## **开发环境**
 Visual Studio2019  
 QT 5.14.2  
